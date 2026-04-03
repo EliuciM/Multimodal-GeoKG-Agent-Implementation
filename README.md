@@ -1,2 +1,2 @@
 # Multimodal-GeoKG-Agent-Implementation
-Multimodal-GeoKG-Agent 具体实现
+参考设计规范：https://github.com/EliuciM/Multimodal-GeoKG-Agent-Specification
