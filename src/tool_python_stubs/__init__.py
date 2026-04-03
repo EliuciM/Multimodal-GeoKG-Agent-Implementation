@@ -1,0 +1,1 @@
+"""Python stubs for the Multimodal-GeoKG-Agent tool layer."""

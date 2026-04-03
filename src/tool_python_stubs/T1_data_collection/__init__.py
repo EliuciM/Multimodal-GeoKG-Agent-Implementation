@@ -1,0 +1,1 @@
+"""Data collection tool stubs."""

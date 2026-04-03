@@ -1,0 +1,1 @@
+"""Entity extraction tool stubs."""
